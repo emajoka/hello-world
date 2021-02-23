@@ -1,2 +1,3 @@
-# hello-world
-First Repository
+# hello-worl
+
+learning how make and commit chnages
